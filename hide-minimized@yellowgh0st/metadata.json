@@ -1,0 +1,7 @@
+{
+    "description": "Hide minimized apps in activities overview",
+    "uuid": "hide-minimized@yellowgh0st",
+    "name": "Hide minimized",
+    "url": "https://github.com/yellowgh0st/hide-minimized",
+    "shell-version": ["3.30", "3.32", "3.34", "3.36", "3.38", "40.0", "40.1"]
+}
